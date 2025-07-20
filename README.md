@@ -72,12 +72,6 @@ npm run dev
 - `npm run lint` - Run ESLint
 - `npm run preview` - Preview production build
 
-## Environment Variables
-
-Create a `.env` file in the root directory with the following variables:
-```
-# Add your environment variables here
-```
 
 ## Contributing
 
